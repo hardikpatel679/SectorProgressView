@@ -3,7 +3,7 @@
     package="com.timqi.sectorprogressview" >
 
     <application
-        android:allowBackup="true"
+        android:allowBackup="false"
         android:label="@string/app_name" ></application>
 
 </manifest>
