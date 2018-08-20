@@ -97,7 +97,7 @@ Integration
 
 ```groovy
 dependencies {
-    compile 'com.github.hardikpatel679:SectorProgressView:v1.0'
+    implementation 'com.github.hardikpatel679:SectorProgressView:v1.0'
 }
 ```
 
